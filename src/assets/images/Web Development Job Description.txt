@@ -1,0 +1,40 @@
+
+
+Project: Developing an online platform that measures personality characteristics of individuals and then provides personalised .pdf reports based on their results. 
+More details: the platform is expected to work in the followingway.
+
+	1. Individuals browse through a list of personality characteristics and select a subset that they are interested in. 
+
+	2. Individuals make an online payment.  
+
+	3. Individuals complete the assessment by answering a number of questions, associated with each personality characteristic that they have selected. Here, they rate the degree of their 	agreement with each question. Their raw numerical data are recorded.  
+
+	4. Recorded raw data get encrypted (256-bit Encryption) and get sent to the server.
+
+	5. At the server, raw data gets decrypted and a specific transformation is applied to it (I provide exact instructions on this but it essentially involves averaging procedures and then a 	transformation via multiplication by a specific constant).
+
+	6. After the data transformation is complete, we need to see which percentile the transformed data result falls under. 
+
+	7. Depending on the percentile, a personalised report (.pdf) with the 	descriptive results is generated and then gets sent back to an individual's e-mail address. (Template on the .pdf 		report is provided by me). 
+
+	8. Data at the server get encrypted back and is stored there before it gets erased after a specific period of time. 
+
+
+Time constraints:
+
+	Stage 1: development of an the actual platform - 4 months. At the time of completion, it is expected that a number of provided personality characteristics will be fully functioning on the 	web-site.  
+
+	Note: I will provide visual templates of all pages (fonts, margins, pictures etc), so that the selected web-development team can focus solely on implementing the instructions and developing 	the platform. Also, logo will be provided you in vector.  
+
+
+	Stage 2: continual support for bug fixes and adding more personality characteristics to the existing on-line infrastructure at request. 
+
+
+Funding: 
+	
+	$12,000 available but this figure is negotiable, depending on the final amount of work required  
+
+
+Kind regards 
+
+CP
