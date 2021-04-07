@@ -1,0 +1,58 @@
+.logo {
+  width: 2.2em;
+  height: 2.2em;
+  margin-left: 3em;
+}
+
+.nav {
+  display: flex;
+  padding: 0.5em 0em;
+  height: 35px;
+  z-index: 4600;
+  text-align: initial;
+  background-image: url(../../assets/images/barra.png);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: "Gotham Pro";
+  position: fixed;
+}
+
+.nav > p {
+  color: white;
+  font-size: 0.9em;
+  display: inline-block;
+  font-family: "Gotham Pro";
+  text-transform: uppercase;
+  margin: 0 2.5em 0 0;
+}
+
+.loginbg{
+  width: 100%;
+  height: 880px;
+  margin-top: 50px;
+}
+
+.login-title {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  color: white;
+}
+
+.container{
+  position: relative;
+  text-align: center;
+}
+
+.authentication {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  font-size: 40px;
+  color: #10151e;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
